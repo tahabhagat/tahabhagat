@@ -4,7 +4,6 @@
 - I'm currently working as a Software Engineer at LTIMindtree.
 - I'm currently working on Web development (Spring Boot, Fast API, Vue JS), Data pipelines (Apache Spark, Apache Kafka), and Artificial Intelligence (Pytorch, Sklearn, Langchain)
 - I'm interested in Rust, Python and Java!
-- 
 
 <!--
 **tahabhagat/tahabhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
